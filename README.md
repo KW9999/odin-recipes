@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be creating a basic recipe website. This will display my knowledge of basic html, and will provide a place to work with CSS and possibly other languages in the future.
